@@ -1,4 +1,4 @@
-# deepfish
+# DeepFish
 
 ## This is the deepfish repo to accompany the manuscript titled "Deep phenotypic profiling of neuroactive drugs in larval zebrafish". Manuscript URL: MANUSCRIPT_URL.
 
