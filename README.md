@@ -13,3 +13,6 @@ The code was tested and model training was performed on NVIDIA a GeForce GTX 108
 &nbsp;&nbsp;&nbsp;&nbsp; Use provided config file or choose custom training parameters (config.yaml file). Activate conda environment: `conda activate deepfish_env` \
 We provide the pre-enumerated training and test pairs in the data repo as numpy arrays as described in the methods section. You can use a different train/ test splitting approach, just save the resulting pairs to a numpy array and place in the Data directory.\
 Run main training loop: `python TwinMain.py`
+
+### **Expected Results** ###
+&nbsp;&nbsp;&nbsp;&nbsp; Expected training results provided in output log files in the Results/ directory for the two models, Twin-NN and Twin-DN. 
