@@ -15,4 +15,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp; Run main training loop: `python TwinMain.py`
 
 ### **Expected Results:** ###
-&nbsp;&nbsp;&nbsp;&nbsp; Expected training results provided in output log files in the Results/ directory for the two models, Twin-NN and Twin-DN. 
+&nbsp;&nbsp;&nbsp;&nbsp; Expected training results provided in output log files in the Results/ directory for the two models, Twin-NN and Twin-DN.\
+Twin-NN runtime: about 10 minutes on a single GPU for 25 epochs, with batch size of 32. GPU memory utilization: 2.8 GB.\
+Twin-DN: about 4 hours on a single GPU for 25 epochs, with batch size of 8. GPU memory utilization: 8.5 GB. 
