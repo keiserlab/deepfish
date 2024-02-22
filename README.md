@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; The code was tested and model training was performed on NVIDIA a GeForce GTX 1080 Ti GPU and a CentOS Linux kernel 3.10.0 operating system with an x86-64 architecture.
 
 ### **Data:**
-&nbsp;&nbsp;&nbsp;&nbsp; Download data from provided zenodo repo: [ZENODO_URL]. Put the data in the 'Data/' directory or whichever directory you prefer (just make sure to edit the path in the config.yaml file) 
+&nbsp;&nbsp;&nbsp;&nbsp; Download data from provided zenodo repo: https://zenodo.org/records/10652682. Put the data in the 'Data/' directory or whichever directory you prefer (just make sure to edit the path in the config.yaml file) 
 
 ### **To train models:**
 &nbsp;&nbsp;&nbsp;&nbsp; Use provided config file or choose custom training parameters (config.yaml file). Activate conda environment: `conda activate deepfish_env` \
