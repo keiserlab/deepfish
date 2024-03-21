@@ -1,6 +1,6 @@
 # DeepFish
 
-## This is the deepfish repo to accompany the manuscript titled "Deep phenotypic profiling of neuroactive drugs in larval zebrafish". Manuscript URL: [MANUSCRIPT_URL].
+## This is the deepfish repo to accompany the manuscript titled "Deep phenotypic profiling of neuroactive drugs in larval zebrafish" ([doi:10.1101/2024.02.22.581657](https://doi.org/10.1101/2024.02.22.581657))
 
 ### **Environment setup:** 
 &nbsp;&nbsp;&nbsp;&nbsp; To train the Twin-NN and Twin-DN models, create a new conda environment from the provided requirements file as follows: `conda create --name deepfish_env --file deepfish_env_req_full.txt`.\
