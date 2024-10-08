@@ -3,7 +3,7 @@
 ## This is the deepfish repo to accompany the manuscript titled "Deep phenotypic profiling of neuroactive drugs in larval zebrafish" ([doi:10.1101/2024.02.22.581657](https://doi.org/10.1101/2024.02.22.581657))
 
 ### **Environment setup:** 
-&nbsp;&nbsp;&nbsp;&nbsp; To train the Twin-NN and Twin-DN models, create a new conda environment from the provided requirements file as follows: `conda create --name deepfish_env --file deepfish_env_req_full.txt`.\
+&nbsp;&nbsp;&nbsp;&nbsp; To train the Twin-NN and Twin-DN models, create a new conda environment from the provided requirements file as follows: `conda create --name deepfish_env --file deepfish_env_req_simple.txt`.\
 &nbsp;&nbsp;&nbsp;&nbsp; The code was tested and model training was performed on NVIDIA a GeForce GTX 1080 Ti GPU and a CentOS Linux kernel 3.10.0 operating system with an x86-64 architecture.
 
 ### **Data:**
