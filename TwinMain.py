@@ -47,7 +47,7 @@ model_path = results_dir + save_tag
 if not os.path.exists(model_path):
     os.mkdir(model_path)
 
-df_info= pd.read_csv('{}MI_raw_info.npy'.format(data_dir))
+df_info= pd.read_csv('{}NT650_info.csv'.format(data_dir))
 cols = ['run','well_index']
 full_info = [tuple(x) for x in df_info[cols].to_records(index=False)]
 full_info = np.array(full_info)
